@@ -24,7 +24,7 @@ Make sure to install all the dependencies. These ones sometimes require you to e
  yarn add styled-components
 ```
 
-## Set up Contract ABI
+## Set up Contract ABI 
 In `web/data/` you should have a file containing your deployed ERC721 contract's ABI. You can replace `SampleNFT.json` with the abi in the following format:
 ```json
 {
