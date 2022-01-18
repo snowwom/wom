@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@babel/core": "^7.0.0-0",
+    "react-is": "^16.8.0",
+    "typescript": "^2.8.0",
     "@emotion/cache": "^11.7.1",
     "@emotion/react": "^11.7.1",
     "@emotion/server": "^11.4.0",
